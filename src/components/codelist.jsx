@@ -77,7 +77,7 @@ const CodeList = ({ data }) => {
             </div>
             <div className="h-96 overflow-y-scroll">
               <pre className="p-4 bg-gray-900 text-white rounded-lg">
-                {fileContents}
+                <code>{fileContents}</code>
               </pre>
             </div>
             <div className="flex justify-end mt-4">

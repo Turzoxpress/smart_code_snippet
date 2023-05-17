@@ -10,5 +10,13 @@
   {
     "title": "Nodes in every level of a Binary Tree - DFS",
     "filePath": "./code/nodes_in_every_level_binary_tree_dfs.py"
+  },
+  {
+    "title": "Root to Leaf nodes from a Binary Tree - DFS Recursion",
+    "filePath": "./code/rootToLeafNodesDFSRecursion.py"
+  },
+  {
+    "title": "Root to Leaf nodes from a Binary Tree - DFS",
+    "filePath": "./code/rootToLeafNodesDFS.py"
   }
 ]
